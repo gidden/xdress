@@ -24,6 +24,7 @@ stlcontainers = [
     ('pair', 'int', 'float64'),
     ('pair', 'int', 'int'),
     ('pair', 'int', 'str'),
+    ('pair', 'int', 'ThreeNums'),
     ('vector', 'float64'),
     ('vector', 'str'),
     ('vector', 'int32'),
